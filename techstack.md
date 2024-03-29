@@ -616,6 +616,7 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
+|[express](https://www.npmjs.com/express)|v4.18.3|02/29/24|dependabot[bot] |MIT|[CVE-2024-29041](https://github.com/advisories/GHSA-rv95-896h-c2vc) (Moderate)|
 |[@babel/core](https://www.npmjs.com/@babel/core)|v7.24.0|02/28/24|dependabot[bot] |MIT|N/A|
 |[@ember/optional-features](https://www.npmjs.com/@ember/optional-features)|v2.1.0|03/06/24|dependabot[bot] |MIT|N/A|
 |[@fortawesome/fontawesome-free](https://www.npmjs.com/@fortawesome/fontawesome-free)|v5.15.4|02/27/24|Jarek Radosz |CC-BY-4.0,OFL-1.1,MIT|N/A|
@@ -636,7 +637,6 @@ Full tech stack [here](/techstack.md)
 |[ember-resolver](https://www.npmjs.com/ember-resolver)|v11.0.1|03/06/24|dependabot[bot] |MIT|N/A|
 |[ember-source](https://www.npmjs.com/ember-source)|v5.5.0|03/06/24|dependabot[bot] |MIT|N/A|
 |[ember-source-channel-url](https://www.npmjs.com/ember-source-channel-url)|v3.0.0|03/06/24|dependabot[bot] |MIT|N/A|
-|[express](https://www.npmjs.com/express)|v4.18.3|02/29/24|dependabot[bot] |MIT|N/A|
 |[glob](https://www.npmjs.com/glob)|v10.3.10|11/10/23|David Taylor |ISC|N/A|
 |[handlebars](https://www.npmjs.com/handlebars)|v4.7.8|08/09/23|dependabot[bot] |MIT|N/A|
 |[html-entities](https://www.npmjs.com/html-entities)|v2.5.2|03/05/24|dependabot[bot] |MIT|N/A|
